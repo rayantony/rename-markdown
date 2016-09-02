@@ -2,7 +2,7 @@
 ===
 
 ### What is it?
-Simple bash renamer for bash that reverses the irksome issue of many services changing or otherwise forcing *.markdown* rather than my personal preferred *.md*. So it checks for any files with this affliction and makes a copy named *.md*. It offers basic checking of things such as whether the file already exists and if so it simlpy passes over but for debugging reasons it will output a log as it goes. This sufficed for my use case but you can change it easy enough. Also it looks for files to change only in the current directory. 
+Simple bash renamer that reverses the irksome issue of many services changing or otherwise forcing *.markdown* rather than my personal preferred *.md*. So it checks for any files with this affliction and makes a copy named *.md*. It offers basic checking of things such as whether the file already exists and if so it simlpy passes over but for debugging reasons it will output a log as it goes. This sufficed for my use case but you can change it easy enough. Also it looks for files to change only in the current directory. 
 
 
 #### The logic of the repo
